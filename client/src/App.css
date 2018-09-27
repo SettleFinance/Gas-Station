@@ -1,0 +1,38 @@
+body{
+  overflow: hidden;
+}
+.table-outer{
+  text-align: left;
+  color: #8c8c8c;
+  font-size: 14px;
+  width: 100%;
+}
+.table-outer td {
+  padding: 5px 0;
+  width: 50%;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.table-outer th {
+  padding: 5px 0;
+  border-bottom: 1px solid #ffffff26;
+}
+.alerts-title {
+  font-weight: 600;
+  color: #909090;
+}
+.alerts-value{
+  text-align: center;
+}
+.table-work{
+  max-width: 500px;
+  margin: auto;
+  margin-top: 25px;
+}
+.table-value{
+  text-align: left;
+}
+.table-helper td{
+  width: 62% !important;
+}
